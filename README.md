@@ -16,9 +16,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # login_signup_UI
 
-<img src="assets/screenshots/ss2.png" width="200">
+<img src="assets/screenshots/ss2.png" width="400">
+<img src="assets/screenshots/ss1.png" width="400">
 
 
 
-![image2](assets/screenshots/ss1.png)
 
